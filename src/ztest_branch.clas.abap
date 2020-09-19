@@ -5,11 +5,18 @@ CLASS ztest_branch DEFINITION
 
   PUBLIC SECTION.
   PROTECTED SECTION.
-  PRIVATE SECTION.
+private section.
+
+  methods TEST_METHODS .
 ENDCLASS.
 
 
 
-CLASS ztest_branch IMPLEMENTATION.
+CLASS ZTEST_BRANCH IMPLEMENTATION.
 
+
+  method TEST_METHODS.
+*    Test Method
+*Test New
+  endmethod.
 ENDCLASS.
