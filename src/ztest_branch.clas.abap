@@ -16,9 +16,7 @@ CLASS ZTEST_BRANCH IMPLEMENTATION.
 
 
   method TEST_METHODS.
-*Test Method
-*Test New
-* Added Code
-*testbranch
+*New Test Branch
+* rbinnu test
   endmethod.
 ENDCLASS.
